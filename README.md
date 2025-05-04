@@ -26,7 +26,7 @@ This repository contains a collection of classic Artificial Intelligence (AI) al
 
 ### Running Python Scripts
 
--cpython a_star.py  
+- cpython a_star.py  
 
 - python bfs.py  
 
