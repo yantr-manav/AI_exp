@@ -26,15 +26,15 @@ This repository contains a collection of classic Artificial Intelligence (AI) al
 
 ### Running Python Scripts
 
-python a_star.py  
+-cpython a_star.py  
 
-python bfs.py  
+- python bfs.py  
 
-python dfs.py  
+- python dfs.py  
 
-python hill_climb.py  
+- python hill_climb.py  
 
-python eight_puzzle.py  
+- python eight_puzzle.py  
 
 
 
@@ -43,13 +43,13 @@ python eight_puzzle.py
 
 Open your terminal and run:
 
-swipl bayesian_reasoning.pl  
+- swipl bayesian_reasoning.pl  
 
-swipl forward_chain_reasoning.pl  
+- swipl forward_chain_reasoning.pl  
 
-swipl medical_diagnosis.pl  
+- swipl medical_diagnosis.pl  
 
-swipl tic_tac_toe.pl  
+- swipl tic_tac_toe.pl  
 
 
 
